@@ -1,4 +1,4 @@
 <!--pages/home/home.wxml-->
 <text>hello world</text>
 <button size="mini">测试喜爱程度</button>
-<view>版本1 tag1</view>
+<view>版本3 tag3</view>
